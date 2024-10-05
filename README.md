@@ -7,3 +7,5 @@ You also have an option of Smowcode software. It is built on the ESP-IDF framewo
 Find below list of projects:
 1. simple-esp32-fpga-adder is repo where i created adder on fpga and verified its logic via esp32. arduino IDE and Gowin softwares were used.
 2. soda-dispenser-machine-whole is a literal soda dispenser machine to be tested via FPGA. we can call it a primitive ASIC design simulation.
+3. tfpga-UART-loopback.~~
+4. tfpga-UART-FFT.~~
